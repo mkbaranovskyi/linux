@@ -1,0 +1,23 @@
+Copy folders with the needed themes to `~/.themes` for the current user only. Or to `/usr/share/themes` for all users (requires sudo).
+Copy folders with icons and cursors to `~/.icons`.
+Then switch them in Tweaks.
+
+
+To install the grub themes, follow the instructions inside the `grub` subfolder.
+
+
+Themes:
+
+Ultimate dark: https://www.pling.com/p/1246387/
+Cameo Ubuntu: https://www.pling.com/p/1390642/
+Manjarin: https://www.pling.com/p/1231824/
+
+
+Icons: 
+
+Ultimate: https://www.pling.com/p/1218961/
+
+
+Cursors:
+
+Volantes: https://www.gnome-look.org/p/1356095/
