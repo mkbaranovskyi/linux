@@ -1,6 +1,6 @@
 1. Copy the theme folders to `/boot/grub/themes`
 
-2. Edit `/etc/default/grub` : uncomment the line with the path to the theme file (at the bottom):
+2. Edit `sudo gedit /etc/default/grub` : uncomment the line with the path to the theme file (at the bottom):
 GRUB_THEME="/boot/grub/themes/Vimix/theme.txt"
 
 
@@ -9,4 +9,3 @@ GRUB_THEME="/boot/grub/themes/Vimix/theme.txt"
 
 Links:
 Vimix:	https://www.gnome-look.org/p/1009236/
-Tels:	https://www.gnome-look.org/p/1307852/
