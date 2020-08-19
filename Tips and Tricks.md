@@ -105,7 +105,7 @@ sudo pacman -S git nodejs npm electron totem vlc gimp code audacious anki gnome-
 Manually from Pamac install AUR packages:
 
 ```
-radeon-profile corectrl dxvk-bin google-chrome stacer postman-bin skype scrcpy
+ttf-ms-fonts radeon-profile corectrl dxvk-bin google-chrome stacer postman-bin skype scrcpy
 ```
 
 Intel: 
